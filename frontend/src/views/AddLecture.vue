@@ -107,7 +107,7 @@ export default {
       form.append("userid", this.selectedLecturer);
       form.append("title", 'Ders Ataması');
       form.append("message", this.lectureCode + ': ' + this.lectureName + ' tarafınıza atanmıştır.');
-      form.append("type", "notify");      
+      form.append("type", "liman_update");      
       request(
         API("send_notif"),
         form,

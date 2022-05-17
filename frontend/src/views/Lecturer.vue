@@ -105,7 +105,7 @@ export default {
       form.append("lecturecode", this.selectedLecture);
       form.append("title", this.title);
       form.append("message", this.message);
-      form.append("type", "notify");      
+      form.append("type", "liman_update");      
       request(
         API("send_announcement"),
         form,

@@ -167,7 +167,7 @@ class DatabaseController extends BaseController
         'json' => [
           "userid" => request('userid'),
           "title" => request('title'),
-          "type" => "notify",
+          "type" => "liman_update",
           "message" => $limanData['user']['name'] . request('message'),
           "level" => "0",
           "read" => "false"
