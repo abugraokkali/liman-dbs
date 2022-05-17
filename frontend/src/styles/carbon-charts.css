@@ -1,0 +1,5445 @@
+#carbon .bx--cc--chart-wrapper .fill-1-1-1 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-1-1-1.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-1-1.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-1-1-1 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-1-1-1 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-1-2-1 {
+  fill: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-1-2-1.hovered {
+  fill: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-2-1 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-2-1.hovered {
+  background-color: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-1-2-1 {
+  stroke: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-1-2-1 {
+  stop-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-1-3-1 {
+  fill: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-1-3-1.hovered {
+  fill: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-3-1 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-3-1.hovered {
+  background-color: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-1-3-1 {
+  stroke: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-1-3-1 {
+  stop-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-1-4-1 {
+  fill: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-1-4-1.hovered {
+  fill: #005956;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-4-1 {
+  background-color: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .background-1-4-1.hovered {
+  background-color: #005956;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-1-4-1 {
+  stroke: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-1-4-1 {
+  stop-color: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-1-1 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-1-1.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-1-1.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-1-1 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-1-1 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-1-2 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-1-2.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-1-2 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-1-2.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-1-2 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-1-2 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-2-1 {
+  fill: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-2-1.hovered {
+  fill: #751cfb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-2-1 {
+  background-color: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-2-1.hovered {
+  background-color: #751cfb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-2-1 {
+  stroke: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-2-1 {
+  stop-color: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-2-2 {
+  fill: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-2-2.hovered {
+  fill: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-2-2 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-2-2.hovered {
+  background-color: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-2-2 {
+  stroke: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-2-2 {
+  stop-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-3-1 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-3-1.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-3-1 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-3-1.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-3-1 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-3-1 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-3-2 {
+  fill: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-3-2.hovered {
+  fill: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-3-2 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-3-2.hovered {
+  background-color: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-3-2 {
+  stroke: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-3-2 {
+  stop-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-4-1 {
+  fill: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-4-1.hovered {
+  fill: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-4-1 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-4-1.hovered {
+  background-color: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-4-1 {
+  stroke: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-4-1 {
+  stop-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-4-2 {
+  fill: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-4-2.hovered {
+  fill: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-4-2 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-4-2.hovered {
+  background-color: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-4-2 {
+  stroke: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-4-2 {
+  stop-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-5-1 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-5-1.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-5-1 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-5-1.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-5-1 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-5-1 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-5-2 {
+  fill: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-2-5-2.hovered {
+  fill: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-5-2 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-2-5-2.hovered {
+  background-color: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-2-5-2 {
+  stroke: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-2-5-2 {
+  stop-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-1-1 {
+  fill: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-1-1.hovered {
+  fill: #eb3382;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-1-1 {
+  background-color: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-1-1.hovered {
+  background-color: #eb3382;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-1-1 {
+  stroke: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-1-1 {
+  stop-color: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-1-2 {
+  fill: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-1-2.hovered {
+  fill: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-1-2 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-1-2.hovered {
+  background-color: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-1-2 {
+  stroke: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-1-2 {
+  stop-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-1-3 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-1-3.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-1-3 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-1-3.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-1-3 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-1-3 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-2-1 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-2-1.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-2-1 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-2-1.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-2-1 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-2-1 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-2-2 {
+  fill: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-2-2.hovered {
+  fill: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-2-2 {
+  background-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-2-2.hovered {
+  background-color: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-2-2 {
+  stroke: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-2-2 {
+  stop-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-2-3 {
+  fill: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-2-3.hovered {
+  fill: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-2-3 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-2-3.hovered {
+  background-color: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-2-3 {
+  stroke: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-2-3 {
+  stop-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-3-1 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-3-1.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-3-1 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-3-1.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-3-1 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-3-1 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-3-2 {
+  fill: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-3-2.hovered {
+  fill: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-3-2 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-3-2.hovered {
+  background-color: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-3-2 {
+  stroke: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-3-2 {
+  stop-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-3-3 {
+  fill: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-3-3.hovered {
+  fill: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-3-3 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-3-3.hovered {
+  background-color: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-3-3 {
+  stroke: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-3-3 {
+  stop-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-4-1 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-4-1.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-4-1 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-4-1.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-4-1 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-4-1 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-4-2 {
+  fill: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-4-2.hovered {
+  fill: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-4-2 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-4-2.hovered {
+  background-color: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-4-2 {
+  stroke: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-4-2 {
+  stop-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-4-3 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-4-3.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-4-3 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-4-3.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-4-3 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-4-3 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-5-1 {
+  fill: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-5-1.hovered {
+  fill: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-5-1 {
+  background-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-5-1.hovered {
+  background-color: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-5-1 {
+  stroke: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-5-1 {
+  stop-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-5-2 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-5-2.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-5-2 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-5-2.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-5-2 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-5-2 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-5-3 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-3-5-3.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-5-3 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-3-5-3.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-3-5-3 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-3-5-3 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-1 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-1.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-1.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-1-1 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-1-1 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-2 {
+  fill: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-2.hovered {
+  fill: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-2 {
+  background-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-2.hovered {
+  background-color: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-1-2 {
+  stroke: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-1-2 {
+  stop-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-3 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-3.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-3 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-3.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-1-3 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-1-3 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-4 {
+  fill: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-1-4.hovered {
+  fill: #eb3382;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-4 {
+  background-color: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-1-4.hovered {
+  background-color: #eb3382;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-1-4 {
+  stroke: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-1-4 {
+  stop-color: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-1 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-1.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-1 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-1.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-2-1 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-2-1 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-2 {
+  fill: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-2.hovered {
+  fill: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-2 {
+  background-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-2.hovered {
+  background-color: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-2-2 {
+  stroke: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-2-2 {
+  stop-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-3 {
+  fill: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-3.hovered {
+  fill: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-3 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-3.hovered {
+  background-color: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-2-3 {
+  stroke: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-2-3 {
+  stop-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-4 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-2-4.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-4 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-2-4.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-2-4 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-2-4 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-1 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-1.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-1 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-1.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-3-1 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-3-1 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-2 {
+  fill: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-2.hovered {
+  fill: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-2 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-2.hovered {
+  background-color: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-3-2 {
+  stroke: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-3-2 {
+  stop-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-3 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-3.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-3 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-3.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-3-3 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-3-3 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-4 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-4-3-4.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-4 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-4-3-4.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-4-3-4 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-4-3-4 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-1 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-1.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-1.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-1-1 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-1-1 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-2 {
+  fill: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-2.hovered {
+  fill: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-2 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-2.hovered {
+  background-color: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-1-2 {
+  stroke: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-1-2 {
+  stop-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-3 {
+  fill: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-3.hovered {
+  fill: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-3 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-3.hovered {
+  background-color: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-1-3 {
+  stroke: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-1-3 {
+  stop-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-4 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-4.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-4 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-4.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-1-4 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-1-4 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-5 {
+  fill: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-1-5.hovered {
+  fill: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-5 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-1-5.hovered {
+  background-color: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-1-5 {
+  stroke: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-1-5 {
+  stop-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-1 {
+  fill: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-1.hovered {
+  fill: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-1 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-1.hovered {
+  background-color: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-2-1 {
+  stroke: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-2-1 {
+  stop-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-2 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-2.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-2 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-2.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-2-2 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-2-2 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-3 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-3.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-3 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-3.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-2-3 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-2-3 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-4 {
+  fill: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-4.hovered {
+  fill: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-4 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-4.hovered {
+  background-color: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-2-4 {
+  stroke: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-2-4 {
+  stop-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-5 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-5-2-5.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-5 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-5-2-5.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-5-2-5 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-5-2-5 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-1 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-1.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-1.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-1 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-1 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-2 {
+  fill: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-2.hovered {
+  fill: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-2 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-2.hovered {
+  background-color: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-2 {
+  stroke: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-2 {
+  stop-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-3 {
+  fill: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-3.hovered {
+  fill: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-3 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-3.hovered {
+  background-color: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-3 {
+  stroke: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-3 {
+  stop-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-4 {
+  fill: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-4.hovered {
+  fill: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-4 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-4.hovered {
+  background-color: #801343;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-4 {
+  stroke: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-4 {
+  stop-color: #9f1853;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-5 {
+  fill: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-5.hovered {
+  fill: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-5 {
+  background-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-5.hovered {
+  background-color: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-5 {
+  stroke: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-5 {
+  stop-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-6 {
+  fill: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-6.hovered {
+  fill: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-6 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-6.hovered {
+  background-color: #300205;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-6 {
+  stroke: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-6 {
+  stop-color: #520408;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-7 {
+  fill: #198038;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-7.hovered {
+  fill: #13622b;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-7 {
+  background-color: #198038;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-7.hovered {
+  background-color: #13622b;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-7 {
+  stroke: #198038;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-7 {
+  stop-color: #198038;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-8 {
+  fill: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-8.hovered {
+  fill: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-8 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-8.hovered {
+  background-color: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-8 {
+  stroke: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-8 {
+  stop-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-9 {
+  fill: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-9.hovered {
+  fill: #eb3382;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-9 {
+  background-color: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-9.hovered {
+  background-color: #eb3382;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-9 {
+  stroke: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-9 {
+  stop-color: #ee5396;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-10 {
+  fill: #b28600;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-10.hovered {
+  fill: #8e6b00;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-10 {
+  background-color: #b28600;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-10.hovered {
+  background-color: #8e6b00;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-10 {
+  stroke: #b28600;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-10 {
+  stop-color: #b28600;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-11 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-11.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-11 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-11.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-11 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-11 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-12 {
+  fill: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-12.hovered {
+  fill: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-12 {
+  background-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-12.hovered {
+  background-color: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-12 {
+  stroke: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-12 {
+  stop-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-13 {
+  fill: #8a3800;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-13.hovered {
+  fill: #662a00;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-13 {
+  background-color: #8a3800;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-13.hovered {
+  background-color: #662a00;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-13 {
+  stroke: #8a3800;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-13 {
+  stop-color: #8a3800;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-14 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-14-1-14.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-14 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-14-1-14.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-14-1-14 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-14-1-14 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-1 {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-1.hovered {
+  fill: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-1 {
+  background-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-1.hovered {
+  background-color: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-1 {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-1 {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-2 {
+  fill: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-2.hovered {
+  fill: #ddceff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-2 {
+  background-color: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-2.hovered {
+  background-color: #ddceff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-2 {
+  stroke: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-2 {
+  stop-color: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-3 {
+  fill: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-3.hovered {
+  fill: #d2b6ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-3 {
+  background-color: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-3.hovered {
+  background-color: #d2b6ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-3 {
+  stroke: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-3 {
+  stop-color: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-4 {
+  fill: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-4.hovered {
+  fill: #bd97ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-4 {
+  background-color: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-4.hovered {
+  background-color: #bd97ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-4 {
+  stroke: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-4 {
+  stop-color: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-5 {
+  fill: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-5.hovered {
+  fill: #a871ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-5 {
+  background-color: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-5.hovered {
+  background-color: #a871ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-5 {
+  stroke: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-5 {
+  stop-color: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-6 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-6.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-6 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-6.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-6 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-6 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-7 {
+  fill: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-7.hovered {
+  fill: #751cfb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-7 {
+  background-color: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-7.hovered {
+  background-color: #751cfb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-7 {
+  stroke: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-7 {
+  stop-color: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-8 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-8.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-8 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-8.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-8 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-8 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-9 {
+  fill: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-9.hovered {
+  fill: #39176d;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-9 {
+  background-color: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-9.hovered {
+  background-color: #39176d;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-9 {
+  stroke: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-9 {
+  stop-color: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-10 {
+  fill: #31135e;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-10.hovered {
+  fill: #220d40;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-10 {
+  background-color: #31135e;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-10.hovered {
+  background-color: #220d40;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-10 {
+  stroke: #31135e;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-10 {
+  stop-color: #31135e;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-11 {
+  fill: #1c0f30;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-1-11.hovered {
+  fill: #0c0715;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-11 {
+  background-color: #1c0f30;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-1-11.hovered {
+  background-color: #0c0715;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-1-11 {
+  stroke: #1c0f30;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-1-11 {
+  stop-color: #1c0f30;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-1 {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-1.hovered {
+  fill: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-1 {
+  background-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-1.hovered {
+  background-color: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-1 {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-1 {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-2 {
+  fill: #edf5ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-2.hovered {
+  fill: #c9e1ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-2 {
+  background-color: #edf5ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-2.hovered {
+  background-color: #c9e1ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-2 {
+  stroke: #edf5ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-2 {
+  stop-color: #edf5ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-3 {
+  fill: #d0e2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-3.hovered {
+  fill: #acccff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-3 {
+  background-color: #d0e2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-3.hovered {
+  background-color: #acccff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-3 {
+  stroke: #d0e2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-3 {
+  stop-color: #d0e2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-4 {
+  fill: #a6c8ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-4.hovered {
+  fill: #82b2ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-4 {
+  background-color: #a6c8ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-4.hovered {
+  background-color: #82b2ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-4 {
+  stroke: #a6c8ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-4 {
+  stop-color: #a6c8ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-5 {
+  fill: #78a9ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-5.hovered {
+  fill: #5492ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-5 {
+  background-color: #78a9ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-5.hovered {
+  background-color: #5492ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-5 {
+  stroke: #78a9ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-5 {
+  stop-color: #78a9ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-6 {
+  fill: #4589ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-6.hovered {
+  fill: #2172ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-6 {
+  background-color: #4589ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-6.hovered {
+  background-color: #2172ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-6 {
+  stroke: #4589ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-6 {
+  stop-color: #4589ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-7 {
+  fill: #0f62fe;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-7.hovered {
+  fill: #0151e8;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-7 {
+  background-color: #0f62fe;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-7.hovered {
+  background-color: #0151e8;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-7 {
+  stroke: #0f62fe;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-7 {
+  stop-color: #0f62fe;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-8 {
+  fill: #0043ce;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-8.hovered {
+  fill: #0037aa;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-8 {
+  background-color: #0043ce;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-8.hovered {
+  background-color: #0037aa;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-8 {
+  stroke: #0043ce;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-8 {
+  stop-color: #0043ce;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-9 {
+  fill: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-9.hovered {
+  fill: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-9 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-9.hovered {
+  background-color: #002378;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-9 {
+  stroke: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-9 {
+  stop-color: #002d9c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-10 {
+  fill: #001d6c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-10.hovered {
+  fill: #001348;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-10 {
+  background-color: #001d6c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-10.hovered {
+  background-color: #001348;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-10 {
+  stroke: #001d6c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-10 {
+  stop-color: #001d6c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-11 {
+  fill: #001141;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-2-11.hovered {
+  fill: #00081d;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-11 {
+  background-color: #001141;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-2-11.hovered {
+  background-color: #00081d;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-2-11 {
+  stroke: #001141;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-2-11 {
+  stop-color: #001141;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-1 {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-1.hovered {
+  fill: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-1 {
+  background-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-1.hovered {
+  background-color: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-1 {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-1 {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-2 {
+  fill: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-2.hovered {
+  fill: #c1eaff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-2 {
+  background-color: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-2.hovered {
+  background-color: #c1eaff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-2 {
+  stroke: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-2 {
+  stop-color: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-3 {
+  fill: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-3.hovered {
+  fill: #96d9ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-3 {
+  background-color: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-3.hovered {
+  background-color: #96d9ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-3 {
+  stroke: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-3 {
+  stop-color: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-4 {
+  fill: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-4.hovered {
+  fill: #5ec1ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-4 {
+  background-color: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-4.hovered {
+  background-color: #5ec1ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-4 {
+  stroke: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-4 {
+  stop-color: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-5 {
+  fill: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-5.hovered {
+  fill: #0fa3ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-5 {
+  background-color: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-5.hovered {
+  background-color: #0fa3ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-5 {
+  stroke: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-5 {
+  stop-color: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-6 {
+  fill: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-6.hovered {
+  fill: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-6 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-6.hovered {
+  background-color: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-6 {
+  stroke: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-6 {
+  stop-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-7 {
+  fill: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-7.hovered {
+  fill: #005d9f;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-7 {
+  background-color: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-7.hovered {
+  background-color: #005d9f;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-7 {
+  stroke: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-7 {
+  stop-color: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-8 {
+  fill: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-8.hovered {
+  fill: #004076;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-8 {
+  background-color: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-8.hovered {
+  background-color: #004076;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-8 {
+  stroke: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-8 {
+  stop-color: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-9 {
+  fill: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-9.hovered {
+  fill: #002749;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-9 {
+  background-color: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-9.hovered {
+  background-color: #002749;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-9 {
+  stroke: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-9 {
+  stop-color: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-10 {
+  fill: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-10.hovered {
+  fill: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-10 {
+  background-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-10.hovered {
+  background-color: #011426;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-10 {
+  stroke: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-10 {
+  stop-color: #012749;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-11 {
+  fill: #061727;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-3-11.hovered {
+  fill: #010508;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-11 {
+  background-color: #061727;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-3-11.hovered {
+  background-color: #010508;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-3-11 {
+  stroke: #061727;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-3-11 {
+  stop-color: #061727;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-1 {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-1.hovered {
+  fill: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-1 {
+  background-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-1.hovered {
+  background-color: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-1 {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-1 {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-2 {
+  fill: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-2.hovered {
+  fill: #b9f8f8;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-2 {
+  background-color: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-2.hovered {
+  background-color: #b9f8f8;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-2 {
+  stroke: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-2 {
+  stop-color: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-3 {
+  fill: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-3.hovered {
+  fill: #7febeb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-3 {
+  background-color: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-3.hovered {
+  background-color: #7febeb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-3 {
+  stroke: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-3 {
+  stop-color: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-4 {
+  fill: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-4.hovered {
+  fill: #26cecc;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-4 {
+  background-color: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-4.hovered {
+  background-color: #26cecc;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-4 {
+  stroke: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-4 {
+  stop-color: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-5 {
+  fill: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-5.hovered {
+  fill: #079b98;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-5 {
+  background-color: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-5.hovered {
+  background-color: #079b98;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-5 {
+  stroke: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-5 {
+  stop-color: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-6 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-6.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-6 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-6.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-6 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-6 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-7 {
+  fill: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-7.hovered {
+  fill: #005956;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-7 {
+  background-color: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-7.hovered {
+  background-color: #005956;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-7 {
+  stroke: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-7 {
+  stop-color: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-8 {
+  fill: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-8.hovered {
+  fill: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-8 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-8.hovered {
+  background-color: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-8 {
+  stroke: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-8 {
+  stop-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-9 {
+  fill: #004144;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-9.hovered {
+  fill: #001f20;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-9 {
+  background-color: #004144;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-9.hovered {
+  background-color: #001f20;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-9 {
+  stroke: #004144;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-9 {
+  stop-color: #004144;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-10 {
+  fill: #022b30;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-10.hovered {
+  fill: #010c0e;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-10 {
+  background-color: #022b30;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-10.hovered {
+  background-color: #010c0e;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-10 {
+  stroke: #022b30;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-10 {
+  stop-color: #022b30;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-11 {
+  fill: #081a1c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-mono-4-11.hovered {
+  fill: black;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-11 {
+  background-color: #081a1c;
+}
+
+#carbon .bx--cc--chart-wrapper .background-mono-4-11.hovered {
+  background-color: black;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-mono-4-11 {
+  stroke: #081a1c;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-mono-4-11 {
+  stop-color: #081a1c;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-1 {
+  fill: #750e13;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-1.hovered {
+  fill: #550a0e;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-1 {
+  background-color: #750e13;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-1.hovered {
+  background-color: #550a0e;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-1 {
+  stroke: #750e13;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-1 {
+  stop-color: #750e13;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-2 {
+  fill: #a2191f;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-2.hovered {
+  fill: #831419;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-2 {
+  background-color: #a2191f;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-2.hovered {
+  background-color: #831419;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-2 {
+  stroke: #a2191f;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-2 {
+  stop-color: #a2191f;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-3 {
+  fill: #da1e28;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-3.hovered {
+  fill: #bb1a22;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-3 {
+  background-color: #da1e28;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-3.hovered {
+  background-color: #bb1a22;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-3 {
+  stroke: #da1e28;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-3 {
+  stop-color: #da1e28;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-4 {
+  fill: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-4.hovered {
+  fill: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-4 {
+  background-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-4.hovered {
+  background-color: #f92a35;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-4 {
+  stroke: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-4 {
+  stop-color: #fa4d56;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-5 {
+  fill: #ff8389;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-5.hovered {
+  fill: #ff5f67;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-5 {
+  background-color: #ff8389;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-5.hovered {
+  background-color: #ff5f67;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-5 {
+  stroke: #ff8389;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-5 {
+  stop-color: #ff8389;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-6 {
+  fill: #ffb3b8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-6.hovered {
+  fill: #ff8f97;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-6 {
+  background-color: #ffb3b8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-6.hovered {
+  background-color: #ff8f97;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-6 {
+  stroke: #ffb3b8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-6 {
+  stop-color: #ffb3b8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-7 {
+  fill: #ffd7d9;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-7.hovered {
+  fill: #ffb3b7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-7 {
+  background-color: #ffd7d9;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-7.hovered {
+  background-color: #ffb3b7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-7 {
+  stroke: #ffd7d9;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-7 {
+  stop-color: #ffd7d9;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-8 {
+  fill: #fff1f1;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-8.hovered {
+  fill: #ffcdcd;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-8 {
+  background-color: #fff1f1;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-8.hovered {
+  background-color: #ffcdcd;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-8 {
+  stroke: #fff1f1;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-8 {
+  stop-color: #fff1f1;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-9 {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-9.hovered {
+  fill: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-9 {
+  background-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-9.hovered {
+  background-color: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-9 {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-9 {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-10 {
+  fill: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-10.hovered {
+  fill: #c1eaff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-10 {
+  background-color: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-10.hovered {
+  background-color: #c1eaff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-10 {
+  stroke: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-10 {
+  stop-color: #e5f6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-11 {
+  fill: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-11.hovered {
+  fill: #96d9ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-11 {
+  background-color: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-11.hovered {
+  background-color: #96d9ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-11 {
+  stroke: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-11 {
+  stop-color: #bae6ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-12 {
+  fill: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-12.hovered {
+  fill: #5ec1ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-12 {
+  background-color: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-12.hovered {
+  background-color: #5ec1ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-12 {
+  stroke: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-12 {
+  stop-color: #82cfff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-13 {
+  fill: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-13.hovered {
+  fill: #0fa3ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-13 {
+  background-color: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-13.hovered {
+  background-color: #0fa3ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-13 {
+  stroke: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-13 {
+  stop-color: #33b1ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-14 {
+  fill: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-14.hovered {
+  fill: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-14 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-14.hovered {
+  background-color: #0f7dc7;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-14 {
+  stroke: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-14 {
+  stop-color: #1192e8;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-15 {
+  fill: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-15.hovered {
+  fill: #005d9f;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-15 {
+  background-color: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-15.hovered {
+  background-color: #005d9f;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-15 {
+  stroke: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-15 {
+  stop-color: #0072c3;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-16 {
+  fill: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-16.hovered {
+  fill: #004076;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-16 {
+  background-color: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-16.hovered {
+  background-color: #004076;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-16 {
+  stroke: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-16 {
+  stop-color: #00539a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-17 {
+  fill: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-1-17.hovered {
+  fill: #002749;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-17 {
+  background-color: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-1-17.hovered {
+  background-color: #002749;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-1-17 {
+  stroke: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-1-17 {
+  stop-color: #003a6d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-1 {
+  fill: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-1.hovered {
+  fill: #39176d;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-1 {
+  background-color: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-1.hovered {
+  background-color: #39176d;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-1 {
+  stroke: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-1 {
+  stop-color: #491d8b;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-2 {
+  fill: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-2.hovered {
+  fill: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-2 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-2.hovered {
+  background-color: #5923a6;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-2 {
+  stroke: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-2 {
+  stop-color: #6929c4;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-3 {
+  fill: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-3.hovered {
+  fill: #751cfb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-3 {
+  background-color: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-3.hovered {
+  background-color: #751cfb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-3 {
+  stroke: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-3 {
+  stop-color: #8a3ffc;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-4 {
+  fill: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-4.hovered {
+  fill: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-4 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-4.hovered {
+  background-color: #8f4aff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-4 {
+  stroke: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-4 {
+  stop-color: #a56eff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-5 {
+  fill: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-5.hovered {
+  fill: #a871ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-5 {
+  background-color: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-5.hovered {
+  background-color: #a871ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-5 {
+  stroke: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-5 {
+  stop-color: #be95ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-6 {
+  fill: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-6.hovered {
+  fill: #bd97ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-6 {
+  background-color: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-6.hovered {
+  background-color: #bd97ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-6 {
+  stroke: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-6 {
+  stop-color: #d4bbff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-7 {
+  fill: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-7.hovered {
+  fill: #d2b6ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-7 {
+  background-color: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-7.hovered {
+  background-color: #d2b6ff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-7 {
+  stroke: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-7 {
+  stop-color: #e8daff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-8 {
+  fill: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-8.hovered {
+  fill: #ddceff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-8 {
+  background-color: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-8.hovered {
+  background-color: #ddceff;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-8 {
+  stroke: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-8 {
+  stop-color: #f6f2ff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-9 {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-9.hovered {
+  fill: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-9 {
+  background-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-9.hovered {
+  background-color: #ededed;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-9 {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-9 {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-10 {
+  fill: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-10.hovered {
+  fill: #b9f8f8;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-10 {
+  background-color: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-10.hovered {
+  background-color: #b9f8f8;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-10 {
+  stroke: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-10 {
+  stop-color: #d9fbfb;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-11 {
+  fill: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-11.hovered {
+  fill: #7febeb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-11 {
+  background-color: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-11.hovered {
+  background-color: #7febeb;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-11 {
+  stroke: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-11 {
+  stop-color: #9ef0f0;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-12 {
+  fill: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-12.hovered {
+  fill: #26cecc;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-12 {
+  background-color: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-12.hovered {
+  background-color: #26cecc;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-12 {
+  stroke: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-12 {
+  stop-color: #3ddbd9;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-13 {
+  fill: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-13.hovered {
+  fill: #079b98;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-13 {
+  background-color: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-13.hovered {
+  background-color: #079b98;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-13 {
+  stroke: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-13 {
+  stop-color: #08bdba;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-14 {
+  fill: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-14.hovered {
+  fill: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-14 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-14.hovered {
+  background-color: #007977;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-14 {
+  stroke: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-14 {
+  stop-color: #009d9a;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-15 {
+  fill: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-15.hovered {
+  fill: #005956;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-15 {
+  background-color: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-15.hovered {
+  background-color: #005956;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-15 {
+  stroke: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-15 {
+  stop-color: #007d79;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-16 {
+  fill: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-16.hovered {
+  fill: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-16 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-16.hovered {
+  background-color: #003939;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-16 {
+  stroke: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-16 {
+  stop-color: #005d5d;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-17 {
+  fill: #004144;
+}
+
+#carbon .bx--cc--chart-wrapper .fill-diverge-2-17.hovered {
+  fill: #001f20;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-17 {
+  background-color: #004144;
+}
+
+#carbon .bx--cc--chart-wrapper .background-diverge-2-17.hovered {
+  background-color: #001f20;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .stroke-diverge-2-17 {
+  stroke: #004144;
+}
+
+#carbon .bx--cc--chart-wrapper .stop-color-diverge-2-17 {
+  stop-color: #004144;
+}
+
+#carbon .bx--cc--tooltip .tooltip-1-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--tooltip .tooltip-1-2-1 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--tooltip .tooltip-1-3-1 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--tooltip .tooltip-1-4-1 {
+  background-color: #007d79;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-1-2 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-2-1 {
+  background-color: #8a3ffc;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-2-2 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-3-1 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-3-2 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-4-1 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-4-2 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-5-1 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--tooltip .tooltip-2-5-2 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-1-1 {
+  background-color: #ee5396;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-1-2 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-1-3 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-2-1 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-2-2 {
+  background-color: #fa4d56;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-2-3 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-3-1 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-3-2 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-3-3 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-4-1 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-4-2 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-4-3 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-5-1 {
+  background-color: #012749;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-5-2 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--tooltip .tooltip-3-5-3 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-1-2 {
+  background-color: #012749;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-1-3 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-1-4 {
+  background-color: #ee5396;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-2-1 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-2-2 {
+  background-color: #fa4d56;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-2-3 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-2-4 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-3-1 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-3-2 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-3-3 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--tooltip .tooltip-4-3-4 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-1-2 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-1-3 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-1-4 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-1-5 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-2-1 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-2-2 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-2-3 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-2-4 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--tooltip .tooltip-5-2-5 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-1 {
+  background-color: #6929c4;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-2 {
+  background-color: #1192e8;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-3 {
+  background-color: #005d5d;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-4 {
+  background-color: #9f1853;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-5 {
+  background-color: #fa4d56;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-6 {
+  background-color: #520408;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-7 {
+  background-color: #198038;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-8 {
+  background-color: #002d9c;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-9 {
+  background-color: #ee5396;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-10 {
+  background-color: #b28600;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-11 {
+  background-color: #009d9a;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-12 {
+  background-color: #012749;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-13 {
+  background-color: #8a3800;
+}
+
+#carbon .bx--cc--tooltip .tooltip-14-1-14 {
+  background-color: #a56eff;
+}
+
+#carbon .bx--cc--legend .additional>.icon .area-1 {
+  fill: #f4f4f4;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--legend .additional>.icon .area-2 {
+  fill: #e0e0e0;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--legend .additional>.icon .area-3 {
+  fill: #c6c6c6;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--legend .additional>.icon .quartile-wrapper {
+  fill: #e0e0e0;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--legend .additional>.icon .quartile-line {
+  fill: #000;
+}
+
+#carbon .bx--cc--axes {
+  overflow: visible;
+}
+
+#carbon .bx--cc--axes g.axis g.ticks.invisible {
+  visibility: hidden;
+}
+
+#carbon .bx--cc--axes g.axis g.tick-hover rect.axis-holder {
+  fill: transparent;
+  stroke: transparent;
+  stroke-width: 2px;
+}
+
+#carbon .bx--cc--axes g.axis g.tick-hover:hover rect.axis-holder,
+#carbon .bx--cc--axes g.axis g.tick-hover:focus rect.axis-holder {
+  fill: black;
+  stroke: black;
+  stroke-width: 2px;
+}
+
+#carbon .bx--cc--axes g.axis g.tick-hover:hover text,
+#carbon .bx--cc--axes g.axis g.tick-hover:focus text {
+  fill: white;
+}
+
+#carbon .bx--cc--axes g.axis g.tick text {
+  fill: #525252;
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#carbon .bx--cc--axes g.axis g.tick line {
+  display: none;
+}
+
+#carbon .bx--cc--axes g.axis path.domain {
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--axes g.axis .axis-title {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 600;
+  fill: #161616;
+}
+
+#carbon .bx--cc--chart-wrapper g.callouts {
+  stroke: #525252;
+}
+
+#carbon .bx--cc--grid-brush g.grid-brush rect.selection {
+  fill: none;
+  fill-opacity: 0;
+  stroke: none;
+}
+
+#carbon .bx--cc--grid-brush rect.frontSelection {
+  fill: #e0e0e0;
+  fill-opacity: 0.3;
+  stroke: #0f62fe;
+}
+
+#carbon .bx--cc--grid rect.chart-grid-backdrop {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--grid rect.chart-grid-backdrop.stroked {
+  stroke: #e0e0e0;
+}
+
+#carbon .bx--cc--grid rect.stroke {
+  stroke: #e0e0e0;
+}
+
+#carbon .bx--cc--grid g.x.grid g.tick line,
+#carbon .bx--cc--grid g.y.grid g.tick line {
+  pointer-events: none;
+  stroke-width: 1px;
+  stroke: #e0e0e0;
+}
+
+#carbon .bx--cc--grid g.x.grid g.tick.active line,
+#carbon .bx--cc--grid g.y.grid g.tick.active line {
+  stroke-dasharray: 2px;
+  stroke: #0f62fe;
+}
+
+#carbon .bx--cc--ruler line.ruler-line,
+#carbon .bx--cc--ruler-binned line.ruler-line {
+  stroke: #000000;
+  stroke-width: 1px;
+  stroke-dasharray: 2;
+  pointer-events: none;
+}
+
+#carbon .bx--cc--skeleton rect.chart-skeleton-backdrop {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--skeleton .shimmer-effect-lines {
+  stroke-width: 1px;
+}
+
+#carbon .bx--cc--skeleton .shimmer-effect-sparkline {
+  stroke-width: 0px;
+}
+
+#carbon .bx--cc--skeleton .empty-state-lines {
+  stroke-width: 1px;
+  stroke: #e0e0e0;
+}
+
+#carbon .bx--cc--skeleton .shimmer-lines .stop-bg-shimmer {
+  stop-color: #e0e0e0;
+}
+
+#carbon .bx--cc--skeleton .shimmer-lines .stop-shimmer {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--skeleton .empty-state-areas {
+  fill: rgba(127, 127, 127, 0.1);
+}
+
+#carbon .bx--cc--skeleton .shimmer-areas .stop-bg-shimmer {
+  stop-color: rgba(127, 127, 127, 0.1);
+}
+
+#carbon .bx--cc--skeleton .shimmer-areas .stop-shimmer {
+  stop-color: rgba(255, 255, 255, 0.15);
+}
+
+#carbon .bx--cc--skeleton-lines rect.chart-skeleton-backdrop {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--skeleton-lines .shimmer-effect-lines {
+  stroke-width: 1px;
+}
+
+#carbon .bx--cc--skeleton-lines .shimmer-effect-sparkline {
+  stroke-width: 0px;
+}
+
+#carbon .bx--cc--skeleton-lines .empty-state-lines {
+  stroke-width: 1px;
+  stroke: #e0e0e0;
+}
+
+#carbon .bx--cc--skeleton-lines .shimmer-lines .stop-bg-shimmer {
+  stop-color: #e0e0e0;
+}
+
+#carbon .bx--cc--skeleton-lines .shimmer-lines .stop-shimmer {
+  stop-color: #ffffff;
+}
+
+#carbon .bx--cc--zero-line line.domain {
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--layout-row {
+  display: flex;
+  flex-direction: row;
+}
+
+#carbon .bx--cc--layout-column {
+  display: flex;
+  flex-direction: column;
+}
+
+#carbon .bx--cc--layout-row-reverse {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#carbon .bx--cc--layout-column-reverse {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+#carbon .bx--cc--layout-alignitems-center {
+  align-items: center;
+}
+
+#carbon .bx--cc--chart-wrapper .layout-child {
+  overflow: visible;
+}
+
+#carbon .bx--cc--chart-wrapper svg.layout-svg-wrapper {
+  height: inherit;
+  width: inherit;
+  overflow: visible;
+}
+
+#carbon div.bx--cc--legend {
+  display: flex;
+  justify-content: center;
+  user-select: none;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+#carbon div.bx--cc--legend[data-name=legend-items] {
+  width: 100%;
+  margin: -5px;
+}
+
+#carbon div.bx--cc--legend div.legend-item {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+
+#carbon div.bx--cc--legend div.legend-item div.checkbox {
+  width: 13px;
+  height: 13px;
+  margin-right: 4px;
+  border-radius: 2px;
+  border: solid 1px #ffffff;
+  box-shadow: 0 0 0 2px transparent;
+}
+
+@media (forced-colors: active) {
+  #carbon div.bx--cc--legend div.legend-item div.checkbox {
+    forced-color-adjust: none;
+  }
+}
+
+#carbon div.bx--cc--legend div.legend-item div.checkbox:not(.active) {
+  border-color: #525252;
+  background: #ffffff;
+}
+
+#carbon div.bx--cc--legend div.legend-item div.checkbox svg {
+  display: none;
+  vertical-align: text-top;
+  fill: #ffffff;
+  stroke: #ffffff;
+}
+
+#carbon div.bx--cc--legend div.legend-item.additional svg.icon {
+  margin-right: 4px;
+}
+
+#carbon div.bx--cc--legend div.legend-item p {
+  font-size: 12px;
+  fill: #525252;
+  line-height: 1rem;
+}
+
+#carbon div.bx--cc--legend.center-aligned {
+  justify-content: center;
+}
+
+#carbon div.bx--cc--legend.right-aligned {
+  justify-content: flex-end;
+}
+
+#carbon div.bx--cc--legend.has-deactivated-items div.legend-item div.checkbox svg {
+  display: block;
+}
+
+#carbon div.bx--cc--legend.vertical {
+  margin: -5px;
+  flex-direction: column;
+}
+
+#carbon div.bx--cc--legend.vertical div.legend-item {
+  margin-right: 0;
+  margin-bottom: 10px;
+}
+
+#carbon div.bx--cc--legend.clickable div.legend-item:not(.additional):hover {
+  cursor: pointer;
+}
+
+#carbon div.bx--cc--legend.clickable div.legend-item:not(.additional):hover div.checkbox {
+  border: solid 1px #ffffff;
+  box-shadow: 0 0 0 2px #0f62fe;
+}
+
+#carbon div.bx--cc--legend.clickable div.legend-item:not(.additional):hover div.checkbox:not(.active) {
+  border-color: #525252;
+}
+
+#carbon .bx--chart-holder .bx--modal.is-visible {
+  z-index: 99999;
+}
+
+#carbon .bx--chart-holder .bx--modal .bx--modal-container .bx--modal-header__label {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#carbon .bx--chart-holder .bx--modal .bx--modal-container .bx--modal-header__heading {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+#carbon .bx--chart-holder .bx--modal .bx--modal-container .bx--modal-content {
+  padding: 0;
+  margin-bottom: 0;
+}
+
+#carbon .bx--chart-holder .bx--modal .bx--modal-container .bx--modal-content table {
+  position: relative;
+  border-collapse: collapse;
+}
+
+#carbon .bx--chart-holder .bx--modal .bx--modal-container .bx--modal-content table th {
+  position: sticky;
+  top: 0;
+}
+
+#carbon .bx--chart-holder .bx--modal .bx--modal-container .bx--modal-footer {
+  background-color: transparent;
+}
+
+#carbon .bx--chart-holder .bx--modal .bx--modal-container .bx--modal-footer .bx--cc-modal-footer-spacer {
+  width: 50%;
+}
+
+#carbon .bx--cc--title p.title {
+  color: #161616;
+  font-size: 16px;
+  font-family: 'IBM Plex Sans SemiBold"', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-right: 15px;
+}
+
+#carbon .layout-child.title {
+  height: unset !important;
+  overflow: hidden;
+}
+
+#carbon .bx--cc--meter-title {
+  overflow: visible;
+}
+
+#carbon .bx--cc--meter-title text.meter-title,
+#carbon .bx--cc--meter-title text.proportional-meter-title,
+#carbon .bx--cc--meter-title text.proportional-meter-total,
+#carbon .bx--cc--meter-title text.percent-value {
+  fill: #161616;
+}
+
+#carbon .bx--cc--meter-title g.status-indicator.status--danger circle.status {
+  fill: #da1e28;
+}
+
+#carbon .bx--cc--meter-title g.status-indicator.status--warning circle.status {
+  fill: #f1c21b;
+}
+
+#carbon .bx--cc--meter-title g.status-indicator.status--warning path.innerFill {
+  fill: #000000;
+}
+
+#carbon .bx--cc--meter-title g.status-indicator.status--success circle.status {
+  fill: #198038;
+}
+
+#carbon .bx--cc--meter-title g.status-indicator path.innerFill {
+  fill: #ffffff;
+}
+
+#carbon .bx--chart-holder .bx--overflow-menu,
+#carbon .bx--chart-holder .bx--overflow-menu__trigger {
+  width: 2rem;
+  height: 2rem;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar {
+  display: flex;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar div.toolbar-control.disabled,
+#carbon .bx--chart-holder .bx--cc--toolbar div.toolbar-control.disabled button {
+  cursor: not-allowed;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar div.toolbar-control.disabled:hover,
+#carbon .bx--chart-holder .bx--cc--toolbar div.toolbar-control.disabled button:hover {
+  background-color: transparent;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar div.toolbar-control.disabled button:focus {
+  outline: none;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar div.toolbar-control.disabled svg {
+  fill: #8d8d8d;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar .bx--overflow-menu--flip {
+  right: 0;
+  left: unset;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar .bx--overflow-menu--flip.is-open {
+  display: table;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar .bx--overflow-menu--flip ul {
+  margin: 0;
+  padding: 0;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar .bx--loading__background {
+  fill: transparent;
+}
+
+#carbon .bx--chart-holder .bx--cc--toolbar .bx--loading__stroke {
+  stroke-dashoffset: 99;
+  fill: transparent;
+}
+
+#carbon .bx--cc--tooltip {
+  background-color: #ffffff;
+  pointer-events: none;
+  transition-timing-function: cubic-bezier(0.4, 0.14, 0.3, 1);
+  display: inline;
+  visibility: visible;
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+  position: absolute;
+  word-wrap: break-word;
+  z-index: 1059;
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica Neue', Arial, sans-serif;
+  transition: visibility 0s linear 0.1s, opacity 0.1s;
+}
+
+#carbon .bx--cc--tooltip.hidden {
+  opacity: 0;
+  visibility: hidden;
+  transition: visibility 0s linear 0s, opacity 0.1s;
+  transition-timing-function: cubic-bezier(0.4, 0.14, 0.3, 1);
+}
+
+#carbon .bx--cc--tooltip .content-box {
+  color: #161616;
+}
+
+#carbon .bx--cc--tooltip .content-box .title-tooltip {
+  width: auto;
+  padding: 4px;
+  min-width: 20px;
+  max-width: 270px;
+}
+
+#carbon .bx--cc--tooltip .content-box .title-tooltip p {
+  margin: 2px;
+  font-size: 12px;
+  line-height: 1rem;
+}
+
+#carbon .bx--cc--tooltip .content-box .datapoint-tooltip {
+  display: flex;
+  padding: 4px;
+  flex-flow: row nowrap;
+  width: auto;
+  min-width: 20px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+#carbon .bx--cc--tooltip .content-box .datapoint-tooltip div.label {
+  display: flex;
+  flex: 1;
+}
+
+#carbon .bx--cc--tooltip .content-box .datapoint-tooltip div.label p {
+  flex: 1;
+  padding-right: 8px;
+}
+
+#carbon .bx--cc--tooltip .content-box .datapoint-tooltip div.label span.label-icon svg {
+  height: 12px;
+  padding-top: 3px;
+  vertical-align: top;
+  padding-left: 4px;
+  width: auto;
+  fill: black;
+}
+
+#carbon .bx--cc--tooltip .content-box .datapoint-tooltip.bold {
+  font-weight: 600;
+}
+
+#carbon .bx--cc--tooltip .content-box .datapoint-tooltip p {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 16px;
+  font-size: 12px;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#carbon .bx--cc--tooltip .content-box .datapoint-tooltip p.value {
+  width: auto;
+  margin-left: 6px;
+}
+
+#carbon .bx--cc--tooltip .content-box ul.multi-tooltip {
+  margin: 0;
+  padding: 0;
+}
+
+#carbon .bx--cc--tooltip .content-box ul.multi-tooltip li {
+  list-style: none;
+  position: relative;
+}
+
+#carbon .bx--cc--tooltip .content-box ul.multi-tooltip li:not(:last-child) {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+#carbon .bx--cc--tooltip .tooltip-color {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 4px;
+  height: 100%;
+}
+
+@media (forced-colors: active) {
+  #carbon .bx--cc--tooltip .tooltip-color {
+    forced-color-adjust: none;
+  }
+}
+
+#carbon .bx--cc--tooltip .tooltip-color+div.label p {
+  margin-left: 4px;
+}
+
+#carbon .bx--cc--threshold line.threshold-line {
+  stroke: #fa4d56;
+  stroke-width: 1;
+  stroke-dasharray: 4;
+  cursor: pointer;
+  pointer-events: none;
+}
+
+#carbon .bx--cc--threshold line.threshold-line.active {
+  stroke-width: 2;
+}
+
+#carbon .bx--cc--threshold rect.threshold-hoverable-area {
+  height: 20px;
+  transform: translate(0, -10px);
+  cursor: pointer;
+  fill: transparent;
+}
+
+#carbon .bx--cc--threshold rect.threshold-hoverable-area.rotate {
+  transform: rotate(90deg) translate(0, -10px);
+}
+
+#carbon .bx--cc--threshold--label {
+  background-color: #fa4d56;
+  pointer-events: none;
+  transition: opacity 0.1s;
+  transition-timing-function: cubic-bezier(0.4, 0.14, 0.3, 1);
+  display: inline;
+  box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
+  position: absolute;
+  word-wrap: break-word;
+  z-index: 1059;
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica Neue', Arial, sans-serif;
+  color: #161616;
+  line-height: 16px;
+  font-size: 12px;
+  padding: 4px;
+  min-width: 20px;
+}
+
+#carbon .bx--cc--threshold--label.hidden {
+  opacity: 0;
+  transition: opacity 0.1s;
+  transition-timing-function: cubic-bezier(0.4, 0.14, 0.3, 1);
+}
+
+#carbon .bx--cc--zoom-bar rect.zoom-bg {
+  fill: #ffffff;
+  stroke: #f4f4f4;
+}
+
+#carbon .bx--cc--zoom-bar rect.zoom-slider-bg {
+  fill: #f4f4f4;
+}
+
+#carbon .bx--cc--zoom-bar rect.zoom-slider-selected-area {
+  fill: #525252;
+}
+
+#carbon .bx--cc--zoom-bar path.zoom-bg-baseline {
+  stroke: #8d8d8d;
+  stroke-width: 2;
+}
+
+#carbon .bx--cc--zoom-bar path.zoom-graph-area {
+  fill: #e0e0e0;
+  stroke: #8d8d8d;
+  stroke-width: 1;
+}
+
+#carbon .bx--cc--zoom-bar path.zoom-graph-area-unselected {
+  fill: #f4f4f4;
+  stroke: none;
+}
+
+#carbon .bx--cc--zoom-bar g.zoom-bar-brush rect.handle {
+  fill: #525252;
+}
+
+#carbon .bx--cc--zoom-bar g.zoom-bar-brush rect.handle-bar {
+  fill: #ffffff;
+}
+
+#carbon .bx--cc--zoom-bar g.zoom-bar-brush rect.selection {
+  fill: none;
+  stroke: none;
+}
+
+#carbon .bx--cc--zoom-bar rect[class^=highlight-] {
+  fill: #ee5396;
+  stroke: #ee5396;
+}
+
+#carbon .bx--cc--highlight rect.highlight-bar {
+  pointer-events: none;
+  fill: #ee5396;
+  stroke: #ee5396;
+}
+
+@keyframes skeleton {
+  0% {
+    opacity: 0.3;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  20% {
+    opacity: 1;
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
+  28% {
+    transform: scaleX(1);
+    transform-origin: right;
+  }
+
+  51% {
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  58% {
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  82% {
+    transform: scaleX(1);
+    transform-origin: right;
+  }
+
+  83% {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
+  96% {
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  100% {
+    opacity: 0.3;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+}
+
+#carbon .bx--cc--card-node {
+  display: flex;
+  position: relative;
+  background-color: #f4f4f4;
+  z-index: 1;
+  box-sizing: border-box;
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  width: 100%;
+  height: 100%;
+  padding: 1rem 0.5rem;
+  border-left: 0.25rem solid #161616;
+}
+
+#carbon .bx--cc--card-node--a,
+#carbon .bx--cc--card-node--button {
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#carbon .bx--cc--card-node--button {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  text-align: left;
+  width: 100%;
+}
+
+#carbon .bx--cc--card-node--a:focus,
+#carbon .bx--cc--card-node--a:hover,
+#carbon .bx--cc--card-node--button:focus,
+#carbon .bx--cc--card-node--button:hover {
+  background-color: #e5e5e5;
+}
+
+#carbon .bx--cc--card-node--a:focus,
+#carbon .bx--cc--card-node--button:focus {
+  outline: 2px solid #0f62fe;
+  outline-offset: -2px;
+}
+
+@media screen and (prefers-contrast) {
+
+  #carbon .bx--cc--card-node--a:focus,
+  #carbon .bx--cc--card-node--button:focus {
+    outline-style: dotted;
+  }
+}
+
+#carbon .bx--cc--card-node--stacked::before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+  border-top: 0.125rem solid #e0e0e0;
+  border-right: 0.125rem solid #e0e0e0;
+  pointer-events: none;
+  left: 0.3125rem;
+  bottom: 0.3125rem;
+}
+
+#carbon .bx--cc--card-node--stacked::after {
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+  border-top: 0.125rem solid #e0e0e0;
+  border-right: 0.125rem solid #e0e0e0;
+  pointer-events: none;
+  left: 0.6875rem;
+  bottom: 0.6875rem;
+}
+
+#carbon .bx--cc--card-node__column {
+  padding: 0 0.5rem;
+}
+
+#carbon .bx--cc--card-node__column--farside {
+  margin-left: auto;
+}
+
+#carbon .bx--cc--card-node__title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  line-height: 1.29;
+  letter-spacing: 0.16px;
+  margin: 0;
+}
+
+#carbon .bx--cc--card-node__subtitle {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.29;
+  letter-spacing: 0.16px;
+  margin: 0;
+}
+
+#carbon .bx--cc--card-node__label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.34;
+  letter-spacing: 0.32px;
+  color: #525252;
+  padding-top: 1.5rem;
+}
+
+@keyframes skeleton {
+  0% {
+    opacity: 0.3;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  20% {
+    opacity: 1;
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
+  28% {
+    transform: scaleX(1);
+    transform-origin: right;
+  }
+
+  51% {
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  58% {
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  82% {
+    transform: scaleX(1);
+    transform-origin: right;
+  }
+
+  83% {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
+  96% {
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  100% {
+    opacity: 0.3;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+}
+
+#carbon .bx--cc--shape-node {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4;
+  box-sizing: border-box;
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#carbon .bx--cc--shape-node--circle {
+  border-radius: 100%;
+}
+
+#carbon .bx--cc--shape-node--square {
+  border-radius: 0;
+}
+
+#carbon .bx--cc--shape-node--rounded-square {
+  border-radius: 0.5rem;
+}
+
+#carbon .bx--cc--shape-node--a,
+#carbon .bx--cc--shape-node--button {
+  border: none;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#carbon .bx--cc--shape-node--button {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  text-align: left;
+  width: 100%;
+}
+
+#carbon .bx--cc--shape-node--a:focus,
+#carbon .bx--cc--shape-node--a:hover,
+#carbon .bx--cc--shape-node--button:focus,
+#carbon .bx--cc--shape-node--button:hover {
+  background-color: #e5e5e5;
+}
+
+#carbon .bx--cc--shape-node--a:focus .bx--cc--shape-node__title,
+#carbon .bx--cc--shape-node--a:focus .bx--cc--shape-node__subtitle,
+#carbon .bx--cc--shape-node--a:hover .bx--cc--shape-node__title,
+#carbon .bx--cc--shape-node--a:hover .bx--cc--shape-node__subtitle,
+#carbon .bx--cc--shape-node--button:focus .bx--cc--shape-node__title,
+#carbon .bx--cc--shape-node--button:focus .bx--cc--shape-node__subtitle,
+#carbon .bx--cc--shape-node--button:hover .bx--cc--shape-node__title,
+#carbon .bx--cc--shape-node--button:hover .bx--cc--shape-node__subtitle {
+  font-weight: 600;
+}
+
+#carbon .bx--cc--shape-node--a:focus:focus,
+#carbon .bx--cc--shape-node--button:focus:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px #0f62fe;
+}
+
+#carbon .bx--cc--shape-node__body {
+  position: absolute;
+  top: calc(100% + 0.125rem);
+  text-align: center;
+}
+
+#carbon .bx--cc--shape-node__subtitle {
+  padding-bottom: 0.125rem;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.29;
+  letter-spacing: 0.16px;
+  color: #161616;
+}
+
+#carbon .bx--cc--shape-node__icon {
+  display: flex;
+}
+
+#carbon .bx--cc--shape-node__title {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.29;
+  letter-spacing: 0.16px;
+  color: #161616;
+  padding-top: 0.125rem;
+  margin-bottom: 1px;
+}
+
+@keyframes skeleton {
+  0% {
+    opacity: 0.3;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  20% {
+    opacity: 1;
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
+  28% {
+    transform: scaleX(1);
+    transform-origin: right;
+  }
+
+  51% {
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  58% {
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  82% {
+    transform: scaleX(1);
+    transform-origin: right;
+  }
+
+  83% {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+
+  96% {
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+
+  100% {
+    opacity: 0.3;
+    transform: scaleX(0);
+    transform-origin: left;
+  }
+}
+
+#carbon .bx--cc--edge {
+  fill: transparent;
+}
+
+#carbon .bx--cc--edge__container {
+  stroke-width: 1.5rem;
+  stroke: transparent;
+  stroke-dasharray: none;
+}
+
+#carbon .bx--cc--edge__inner {
+  stroke-width: 0.0625rem;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--edge__outer {
+  stroke-width: 0.15625rem;
+  stroke: transparent;
+}
+
+#carbon .bx--cc--edge:hover .bx--cc--edge__inner {
+  stroke-width: 0.15625rem;
+}
+
+#carbon .bx--cc--edge--dash-sm {
+  stroke-dasharray: 2 4;
+}
+
+#carbon .bx--cc--edge--dash-md {
+  stroke-dasharray: 4 4;
+}
+
+#carbon .bx--cc--edge--dash-lg {
+  stroke-dasharray: 8 4;
+}
+
+#carbon .bx--cc--edge--dash-xl {
+  stroke-dasharray: 16 4;
+}
+
+#carbon .bx--cc--edge--tunnel .bx--cc--edge__outer {
+  stroke: #e0e0e0;
+  stroke-width: 0.375rem;
+}
+
+#carbon .bx--cc--edge--double .bx--cc--edge__inner {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--edge--double .bx--cc--edge__outer {
+  stroke: #161616;
+  stroke-width: 0.28125rem;
+}
+
+#carbon .bx--cc--marker {
+  fill: #161616;
+}
+
+#carbon svg.bx--cc--color-legend {
+  display: flex;
+  user-select: none;
+}
+
+#carbon svg.bx--cc--color-legend g.legend-title text {
+  fill: black;
+}
+
+#carbon .bx--cc--area path.area,
+#carbon .bx--cc--area-stacked path.area {
+  pointer-events: none;
+}
+
+#carbon .bx--cc--bubble circle.dot.hovered {
+  fill-opacity: 1;
+  transition: all 0.1s;
+  transition-timing-function: cubic-bezier(0.4, 0.14, 0.3, 1);
+}
+
+#carbon .bx--cc--bubble circle.dot.unfilled {
+  fill: #f4f4f4;
+}
+
+#carbon .bx--cc--bubble g.lines path.line {
+  mix-blend-mode: multiply;
+}
+
+#carbon .bx--cc--bullet path.range-box {
+  pointer-events: none;
+}
+
+#carbon .bx--cc--bullet path.range-box.order-1 {
+  fill: #f4f4f4;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--bullet path.range-box.order-2 {
+  fill: #e0e0e0;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--bullet path.range-box.order-3 {
+  fill: #c6c6c6;
+  stroke: #8d8d8d;
+}
+
+#carbon .bx--cc--bullet path.marker,
+#carbon .bx--cc--bullet path.quartile {
+  pointer-events: none;
+  stroke-width: 1.5px;
+  stroke: #000;
+}
+
+#carbon .bx--cc--bullet path.quartile.over-bar {
+  stroke: #fff;
+}
+
+#carbon .bx--cc--donut {
+  overflow: visible;
+}
+
+#carbon .bx--cc--line path.line {
+  pointer-events: none;
+  fill: none;
+  stroke-width: 1.5;
+}
+
+#carbon .bx--cc--line path.line.sparkline-loading {
+  animation: shimmer 2.5s infinite linear;
+}
+
+@keyframes shimmer {
+  0% {
+    stroke: #e0e0e0;
+  }
+
+  20% {
+    stroke: #ffffff;
+    opacity: 0.5;
+  }
+
+  100% {
+    stroke: #e0e0e0;
+  }
+}
+
+#carbon .bx--cc--scatter circle.dot.hovered {
+  fill-opacity: 1;
+  transition: all 0.1s;
+  transition-timing-function: cubic-bezier(0.4, 0.14, 0.3, 1);
+}
+
+#carbon .bx--cc--scatter circle.dot.unfilled {
+  fill: #f4f4f4;
+  stroke-width: 1.5;
+}
+
+#carbon .bx--cc--scatter circle.dot.threshold-anomaly {
+  stroke-width: 3;
+}
+
+#carbon .bx--cc--scatter g.lines path.line {
+  mix-blend-mode: multiply;
+}
+
+#carbon .bx--cc--meter rect.container {
+  fill: #f4f4f4;
+}
+
+#carbon .bx--cc--meter line.rangeIndicator {
+  stroke: #a8a8a8;
+  stroke-width: 1px;
+}
+
+#carbon .bx--cc--meter rect.value.status--danger {
+  fill: #da1e28;
+}
+
+#carbon .bx--cc--meter rect.value.status--warning {
+  fill: #f1c21b;
+  stroke-width: 1px;
+  stroke: #b28600;
+}
+
+#carbon .bx--cc--meter rect.value.status--success {
+  fill: #198038;
+}
+
+#carbon .bx--cc--meter line.peak {
+  stroke: #161616;
+  stroke-width: 2px;
+}
+
+#carbon .bx--cc--scatter-stacked circle.dot.unfilled {
+  fill: #f4f4f4;
+  stroke-width: 1.5;
+}
+
+#carbon .bx--cc--scatter-stacked circle.dot.threshold-anomaly {
+  stroke-width: 3;
+}
+
+#carbon .bx--cc--radar .blobs path {
+  stroke-width: 1.5px;
+}
+
+#carbon .bx--cc--radar .y-axes path,
+#carbon .bx--cc--radar .x-axes line {
+  stroke-width: 1px;
+  stroke: #e0e0e0;
+}
+
+#carbon .bx--cc--radar .x-axes line.hovered {
+  stroke: #000000;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree g.links {
+  fill: none;
+  stroke: #8d8d8d;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree g.clickable {
+  cursor: pointer;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree g.clickable:hover text {
+  font-weight: 600;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree g.clickable:hover circle {
+  fill: #161616;
+  transition: all 0.1s ease-out;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree circle.parent {
+  fill: #525252;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree circle.child {
+  fill: #8d8d8d;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree text {
+  fill: #161616;
+}
+
+#carbon .bx--cc--chart-wrapper .bx--cc--tree text.text-stroke {
+  stroke: #ffffff;
+  stroke-width: 2px;
+}
+
+#carbon .bx--cc--treemap text {
+  pointer-events: none;
+}
+
+#carbon .bx--cc--gauge {
+  overflow: visible;
+}
+
+#carbon .bx--cc--gauge path.arc-background {
+  fill: #f4f4f4;
+}
+
+#carbon .bx--cc--gauge .gauge-delta-arrow.status--danger {
+  fill: #da1e28;
+}
+
+#carbon .bx--cc--gauge .gauge-delta-arrow.status--warning {
+  fill: #f1c21b;
+}
+
+#carbon .bx--cc--gauge .gauge-delta-arrow.status--success {
+  fill: #198038;
+}
+
+#carbon .bx--cc--pie {
+  overflow: visible;
+}
+
+#carbon .bx--cc--lollipop line.line {
+  pointer-events: none;
+}
+
+#carbon .bx--cc--lollipop circle.dot {
+  stroke-width: 1.5;
+}
+
+#carbon .bx--cc--circle-pack circle.node {
+  stroke-width: 1.5px;
+}
+
+#carbon .bx--cc--circle-pack circle.node.hovered {
+  fill-opacity: 1;
+}
+
+#carbon .bx--cc--circle-pack circle.node.non-focal {
+  fill: #c6c6c6;
+  fill-opacity: 30%;
+  stroke: #c6c6c6;
+}
+
+#carbon .bx--cc--circle-pack circle.node.clickable {
+  cursor: zoom-in;
+}
+
+#carbon .bx--cc--chart-wrapper.zoomed-in {
+  cursor: zoom-out;
+}
+
+#carbon .bx--cc--chart-wrapper.zoomed-in .bx--cc--circle-pack circle.node.hovered-child {
+  stroke: 1.5px solid initial;
+}
+
+#carbon .bx--cc--chart-wrapper.zoomed-in .bx--cc--circle-pack circle.node.clickable {
+  cursor: zoom-out;
+}
+
+#carbon .bx--cc--wordcloud text.word.light {
+  font-weight: 300;
+}
+
+#carbon .bx--cc--alluvial text.node-text {
+  fill: white;
+}
+
+#carbon .bx--cc--alluvial polygon.arrow-down {
+  fill: black;
+}
+
+#carbon .bx--cc--heatmap g.highlighter-hidden {
+  visibility: hidden;
+}
+
+#carbon .bx--cc--heatmap g.cell-highlight line {
+  stroke: white;
+  stroke-width: 1px;
+}
+
+#carbon .bx--cc--heatmap g.cell-2 line {
+  stroke: white;
+  stroke-width: 2px !important;
+}
+
+#carbon .bx--cc--heatmap g.multi-cell line {
+  stroke: white;
+  stroke-width: 2px;
+}
+
+#carbon .bx--cc--heatmap rect.pattern-fill {
+  fill: #8d8d8d;
+}
+
+#carbon .bx--cc--heatmap g.shadows line.top {
+  filter: drop-shadow(0px -3px 2px black);
+}
+
+#carbon .bx--cc--heatmap g.shadows line.down {
+  filter: drop-shadow(0px 3px 2px black);
+}
+
+#carbon .bx--cc--heatmap g.shadows line.left {
+  filter: drop-shadow(-3px 0px 2px black);
+}
+
+#carbon .bx--cc--heatmap g.shadows line.right {
+  filter: drop-shadow(3px 0px 2px black);
+}
+
+#carbon .bx--cc--heatmap rect.null-state {
+  stroke: transparent !important;
+}
+
+#carbon .bx--cc--heatmap rect.heat {
+  stroke-width: 0px;
+}
+
+#carbon .bx--cc--heatmap rect.heat {
+  stroke: #ffffff;
+}
+
+#carbon .bx--cc--heatmap rect.null-state {
+  fill: #f4f4f4;
+}
+
+#carbon .bx--cc--chart-wrapper {
+  font-family: 'IBM Plex Sans Condensed', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#carbon .bx--cc--chart-wrapper p {
+  padding: 0;
+  margin: 0;
+  font-size: 12px;
+  font-weight: 400;
+  color: #525252;
+}
+
+#carbon .bx--cc--chart-wrapper text {
+  font-size: 12px;
+  font-weight: 400;
+  fill: #525252;
+}
+
+#carbon .bx--cc--chart-wrapper g.gauge-numbers text.gauge-value-number {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+}
+
+#carbon .bx--cc--chart-wrapper text.meter-title,
+#carbon .bx--cc--chart-wrapper text.percent-value {
+  font-size: 16px;
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#carbon .bx--cc--chart-wrapper text.meter-title {
+  font-weight: 600;
+}
+
+#carbon .bx--chart-holder {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+#carbon .bx--chart-holder.filled, #carbon .bx--chart-holder.fullscreen {
+  background-color: #ffffff;
+}
+
+#carbon .bx--chart-holder.filled .bx--cc--chart-wrapper, #carbon .bx--chart-holder.fullscreen .bx--cc--chart-wrapper {
+  background-color: #ffffff;
+}
+
+#carbon .bx--chart-holder .DONT_STYLE_ME_css_styles_verifier {
+  overflow: hidden;
+  opacity: 0;
+}
+
+#carbon .bx--chart-holder.fullscreen,
+#carbon .bx--chart-holder:-webkit-full-screen {
+  /* !important is used here to get closer to
+  a truly fullscreen experience */
+  width: 100% !important;
+  height: 100% !important;
+  max-width: unset !important;
+  max-height: unset !important;
+  padding: 2em;
+}
+
+#carbon .bx--cc--chart-wrapper {
+  overflow: visible;
+}

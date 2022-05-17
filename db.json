@@ -1,0 +1,39 @@
+{
+    "name": "Obs",
+    "publisher": "HAVELSAN A.\u015e.",
+    "version": "0.3",
+    "version_code": 32,
+    "database": [],
+    "widgets": [],
+    "language": "php",
+    "status": 0,
+    "service": null,
+    "supportedLiman": "536",
+    "support": "aciklab@havelsan.com.tr",
+    "icon": "graduation-cap",
+    "require_key": "true",
+    "verification": null,
+    "dependencies": null,
+    "sslPorts": null,
+    "display_name": "OBS",
+    "functions": [
+        {
+            "name": "studentPermission",
+            "description": "\u00d6\u011frenci Yetkisi",
+            "isActive": "true",
+            "displayLog": "true"
+        },
+        {
+            "name": "lecturerPermission",
+            "description": "Akademisyen Yetkisi",
+            "isActive": "true",
+            "displayLog": "true"
+        },
+        {
+            "name": "adminPermission",
+            "description": "Y\u00f6netici Yetkisi",
+            "isActive": "true",
+            "displayLog": "true"
+        }
+    ]
+}

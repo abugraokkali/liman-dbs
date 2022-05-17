@@ -1,0 +1,57 @@
+#carbon .bx--btn .btn__icon {
+    position: absolute;
+    right: 1rem;
+    width: 1rem;
+    height: 1.3rem;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
+.tree div.tree-content {
+    font-size: 15px;
+    padding: 0px;
+}
+
+.tree span.tree-anchor {
+    padding: 0px;
+    margin: 0px;
+}
+
+.tree {
+    height: 629px;
+    overflow-y: auto;
+}
+.my-editor {
+    background: #1e1e1e;
+    font-family: Fira code, Fira Mono, Consolas, Menlo, Courier, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+    caret-color: #ffffff;
+}
+
+.prism-editor__textarea:focus {
+    outline: none;
+}
+
+.my-editor>div.prism-editor__container>pre {
+    color: #ffffff !important;
+}
+
+.overflow_hidden {
+    overflow: hidden !important;
+}
+
+.full_screen {
+    width: 100%;
+    position: fixed;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 1040;
+    background-color: #f4f6f9;
+    overflow-y: scroll;
+}
+
+.full_screen .container-fluid {
+    margin: 0 !important;
+    padding: 0 !important;
+}
