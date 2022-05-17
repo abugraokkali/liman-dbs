@@ -3,7 +3,6 @@
     light
     style="margin: auto; width: 60%; height: 350px;"
   >
-    <h5>Ders Oluştur</h5>
     <br>
     <cv-select
       v-model="selectedLecturer"
@@ -29,12 +28,13 @@
     >
     </cv-text-input>
     <cv-button
-      class="mt-2"
+      class="mt-3"
+      style="float: right"
       kind="primary"
       size="field"
       @click="createLecture"
     >
-      Kaydet
+      Oluştur
       <div class="btn__icon">
         <Save20 />
       </div>
@@ -89,6 +89,7 @@ export default {
           form,
           () => {
             showSwal("Ders başarıyla eklendi", "success", 2000);
+            this.sendNotification();
             setTimeout(() => {
               this.$router.push({
                 path: `/lectures`,
@@ -100,6 +101,22 @@ export default {
             showSwal(error.message, "error", 3000);
           }
         );
+    },
+    sendNotification: function () {
+      let form = new FormData();
+      form.append("userid", this.selectedLecturer);
+      form.append("title", 'Ders Ataması');
+      form.append("message", this.lectureCode + ': ' + this.lectureName + ' tarafınıza atanmıştır.');
+      form.append("type", "notify");      
+      request(
+        API("send_notif"),
+        form,
+        () => {},
+        (res) => {
+          let error = JSON.parse(res);
+          showSwal(error.message, "error", 3000);
+        }
+      );
     },
   },
 };

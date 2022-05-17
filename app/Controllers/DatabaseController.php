@@ -39,9 +39,20 @@ class DatabaseController extends BaseController
       return respond($res->message,201);
     }
 
-    public function getStudentsOfLecture()
+    public function getStudentsOfLectureApproved()
     {
-      $response = $this->db->request('GET', '/api/studentlectures/getstudents/'. request('id'));
+      $response = $this->db->request('GET', '/api/studentlectures/getstudents/'. request('id').'/1');
+      $res = json_decode($response->getBody()->getContents());
+      foreach($res->{'data'} as $data)
+        unset($data->{'lecturecode'});
+      if($res->status)
+        return respond($res->data); 
+      return respond($res->message,201);
+    }
+
+    public function getStudentsOfLectureWaiting()
+    {
+      $response = $this->db->request('GET', '/api/studentlectures/getstudents/'. request('id').'/0');
       $res = json_decode($response->getBody()->getContents());
       foreach($res->{'data'} as $data)
         unset($data->{'lecturecode'});
@@ -96,19 +107,106 @@ class DatabaseController extends BaseController
     public function selectLecture()
     {
       validate([
-        "code" => "required",
+        "lecturecode" => "required",
       ]);
-      return respond('test'); 
+      global $limanData;
       $body = [
         'json' => [
-          "code" => request('code'),
+          "studentid" => $limanData['user']['email'],
+          "lecturecode" => request('lecturecode'),
+          "status" => "0"
         ]
       ]; 
-      $response = $this->db->request('POST', '/api/lectures', $body);
+      $response = $this->db->request('POST', '/api/studentlectures', $body);
       $res = json_decode($response->getBody()->getContents());
       if($res->status)
         return respond($res->data); 
       return respond($res->message,201);
     }  
-    
+
+    public function sendNotif()
+    {
+      $body = [
+        'json' => [
+          "userid" => request('userid'),
+          "title" => request('title'),
+          "type" => request('type'),
+          "message" => request('message'),
+          "level" => "0",
+          "read" => "false"
+        ]
+      ]; 
+      $response = $this->db->request('POST', '/api/notification', $body);
+      $res = json_decode($response->getBody()->getContents());
+      if($res->status)
+        return respond($res->data); 
+      return respond($res->message,201);
+    }  
+
+    public function sendAnnouncement()
+    {
+      $body = [
+        'json' => [
+          "lecturecode" => request('lecturecode'),
+          "title" => request('title'),
+          "type" => request('type'),
+          "message" => request('message')
+        ]
+      ]; 
+      $response = $this->db->request('POST', '/api/notification/announcement', $body);
+      $res = json_decode($response->getBody()->getContents());
+      if($res->status)
+        return respond($res->data); 
+      return respond($res->message,201);
+    }
+
+    public function sendNotifWithUsername()
+    {
+      global $limanData;
+      $body = [
+        'json' => [
+          "userid" => request('userid'),
+          "title" => request('title'),
+          "type" => "notify",
+          "message" => $limanData['user']['name'] . request('message'),
+          "level" => "0",
+          "read" => "false"
+        ]
+      ]; 
+      $response = $this->db->request('POST', '/api/notification', $body);
+      $res = json_decode($response->getBody()->getContents());
+      if($res->status)
+        return respond($res->data); 
+      return respond($res->message,201);
+    }
+
+    public function approveStudent()
+    {
+      $body = [
+        'json' => [
+          "studentid" => request('studentid'),
+          "lecturecode" => request('lecturecode'),
+        ]
+      ]; 
+      $response = $this->db->request('POST', '/api/studentlectures/approve', $body);
+      $res = json_decode($response->getBody()->getContents());
+      if($res->status)
+        return respond($res->data); 
+      return respond($res->message,201);
+    }
+
+    public function declineStudent()
+    {
+      $body = [
+        'json' => [
+          "studentid" => request('studentid'),
+          "lecturecode" => request('lecturecode'),
+        ]
+      ]; 
+      $response = $this->db->request('POST', '/api/studentlectures/decline', $body);
+      $res = json_decode($response->getBody()->getContents());
+      if($res->status)
+        return respond($res->data); 
+      return respond($res->message,201);
+    }
 }

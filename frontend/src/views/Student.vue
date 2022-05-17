@@ -2,7 +2,7 @@
   <cv-tile light>
     <DataTable
       title="Derslerim"
-      :columns="[ 'Kodu', 'Adı', 'Akademisyen' ]"
+      :columns="[ 'Kodu', 'Adı', 'Akademisyen', 'Durum' ]"
       api="get_lectures_of_student"
       :size="5"
       :sortable="true"
@@ -16,6 +16,17 @@
           Ekle
           <div class="btn__icon">
             <Add20 />
+          </div>
+        </cv-button>
+         <cv-button
+          small
+          kind="secondary"
+          @click="download"
+          class="ml-1"
+        >
+          İndir
+          <div class="btn__icon">
+            <Download20 />
           </div>
         </cv-button>
       </template>
@@ -49,11 +60,13 @@
 <script>
 import DataTable from "@/components/DataTable";
 import Add20 from "@carbon/icons-vue/es/add/20";
+import Download20 from "@carbon/icons-vue/es/download/20";
 
 export default {
   components: {
     DataTable,
-    Add20
+    Add20,
+    Download20
   },
   data() {
     return {
@@ -74,8 +87,8 @@ export default {
           let response = JSON.parse(res).message;
           response.forEach((element) => {
             this.allLectures.push({
-              name: element["code"] + ": " + element["name"],
-              value: element["code"],
+              name: element["code"] + ": " + element["name"]  + " (" + element["lecturer"] + ")",
+              value: element["code"] + "*" + element["lecturer"],
             });
           });
         },
@@ -87,19 +100,39 @@ export default {
     },
     selectLecture: function () {
       let form = new FormData();
-      form.append('code',this.selectedLecture);
+      form.append('lecturecode',this.selectedLecture.split("*")[0]);
       request(
         API("select_lecture"),
         form,
         () => {
           this.visible = false;
           showSwal("Ders talebiniz akademisyene iletildi", "info", 2000);
+          this.sendNotification();
         },
         (res) => {
           let error = JSON.parse(res);
           showSwal(error.message, "error", 3000);
         }
       );
+    },
+    sendNotification: function () {
+        let form = new FormData();
+        console.log(this.selectedLecture.split("*")[1])
+        form.append("userid", this.selectedLecture.split("*")[1]);
+        form.append("title", 'Ders Talebi');
+        form.append("message",  ' ' + this.selectedLecture.split("*")[0] + ' kodlu dersiniz için onay bekliyor.');
+        request(
+          API("send_notif_with_username"),
+          form,
+          () => {},
+          (res) => {
+            let error = JSON.parse(res);
+            showSwal(error.message, "error", 3000);
+          }
+        );
+    },
+    download: function () {
+      console.log('download');
     },
   },
 };

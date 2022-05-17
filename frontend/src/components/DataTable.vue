@@ -58,18 +58,43 @@
               </div>
               <div v-else-if="cellIndex == 'status'">
                 <cv-tag
-                  v-if="cell==='2'"
+                  v-if="cell==='0'"
                   kind="gray"
-                  label="Down"
+                  label="Onay Bekliyor"
                 />
                 <cv-tag
                   v-else-if="cell==='1'"
                   kind="green"
-                  label="Up"
+                  label="Onaylandı"
+                />
+                <cv-tag
+                  v-else-if="cell==='2'"
+                  kind="red"
+                  label="Reddedildi"
                 />
               </div>
               <div v-else>{{ cell }}</div>
             </cv-data-table-cell>
+            <cv-data-table-cell v-if="type == 'lecturer'">
+                <cv-button
+                    kind="ghost"
+                    @click="approveStudent(row)"
+                  >
+                    <i
+                      style="color: #01941d"
+                      class="fa-solid fa-check"
+                    ></i>
+                  </cv-button>
+                  <cv-button
+                    kind="ghost"
+                    @click="declineStudent(row)"
+                  >
+                    <i
+                      style="color: #fc0303"
+                      class="fa-solid fa-x"
+                    ></i>
+                  </cv-button>
+              </cv-data-table-cell>
           </cv-data-table-row>
         </template>
       </cv-data-table>
@@ -121,6 +146,8 @@ export default {
       default: () => false,
     },
     onClick: { type: Function },
+    type: { type: String },
+    lectureCode: { type: String },
   },
   data() {
     return {
@@ -191,6 +218,78 @@ export default {
         }
       );
     },
+    approveStudent(row) {
+      let form = new FormData();
+      form.append("studentid", row.studentid);
+      form.append("lecturecode", this.lectureCode);
+      request(
+        API('approve_student'),
+        form,
+        () => {
+          showSwal("Onay başarılı", "success", 2000);
+          this.sendNotificationApprove(row);
+          setTimeout(() => {
+            location.reload();
+            }, 2000);
+        },
+        () => {
+          let error = JSON.parse(res);
+          showSwal(error.message, "error", 3000);
+        }
+      );
+    },
+    declineStudent(row) {
+      let form = new FormData();
+      form.append("studentid", row.studentid);
+      form.append("lecturecode", this.lectureCode);
+      request(
+        API('decline_student'),
+        form,
+        () => {
+          showSwal("Reddetme başarılı", "success", 2000);
+          this.sendNotificationDecline(row);
+          setTimeout(() => {
+            location.reload();
+            }, 2000);
+        },
+        () => {
+          let error = JSON.parse(res);
+          showSwal(error.message, "error", 3000);
+        }
+      );
+    },
+    sendNotificationApprove: function (row) {
+      let form = new FormData();
+      form.append("userid", row.studentid);
+      form.append("title", 'Dersiniz Onaylandı');
+      form.append("message", this.lectureCode + 'kodlu ders kaydınız onaylanmıştır.');
+      form.append("type", "notify");      
+      request(
+        API("send_notif"),
+        form,
+        () => {},
+        (res) => {
+          let error = JSON.parse(res);
+          showSwal(error.message, "error", 3000);
+        }
+      );
+    },
+    sendNotificationDecline: function (row) {
+      let form = new FormData();
+      form.append("userid", row.studentid);
+      form.append("title", 'Dersiniz Onaylanmadı');
+      form.append("message", this.lectureCode + 'kodlu ders kaydınız onaylamanmıştır.');
+      form.append("type", "health_problem");      
+      request(
+        API("send_notif"),
+        form,
+        () => {},
+        (res) => {
+          let error = JSON.parse(res);
+          showSwal(error.message, "error", 3000);
+        }
+      );
+    },
     actionOnPagination(val) {
       this.pageSize = val.length;
       this.start = val.start - 1;
@@ -212,26 +311,6 @@ export default {
           return 0;
         }
       });
-    },
-    getTime(s) {
-      let d = new Date(s);
-      let str = d.toUTCString();
-      return str.substring(0, str.lastIndexOf(" "));
-    },
-    getRelativeTime(d1, d2 = new Date()) {
-      var units = {
-        year: 24 * 60 * 60 * 1000 * 365,
-        month: (24 * 60 * 60 * 1000 * 365) / 12,
-        day: 24 * 60 * 60 * 1000,
-        hour: 60 * 60 * 1000,
-        minute: 60 * 1000,
-        second: 1000,
-      };
-      var rtf = new Intl.RelativeTimeFormat("en", { numeric: "auto" });
-      var elapsed = d1 - d2;
-      for (var u in units)
-        if (Math.abs(elapsed) > units[u] || u == "second")
-          return rtf.format(Math.round(elapsed / units[u]), u);
     },
   },
 };
