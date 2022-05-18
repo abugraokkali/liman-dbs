@@ -3,8 +3,8 @@
     <cv-header>
       <cv-header-name
         to="/"
-        prefix="HAVELSAN"
-      > OBS <i style="margin-left: 7px !important" class="fa-solid fa-graduation-cap"></i></cv-header-name>
+        prefix="LİMAN"
+      > DBS <i style="margin-left: 7px !important" class="fa-solid fa-graduation-cap"></i></cv-header-name>
       <cv-header-nav>
         <template v-for="item in items">
           <template v-if="item.children">

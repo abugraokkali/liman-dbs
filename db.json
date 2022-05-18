@@ -1,8 +1,8 @@
 {
-    "name": "Obs",
+    "name": "Dbs",
     "publisher": "HAVELSAN A.\u015e.",
     "version": "0.3",
-    "version_code": 32,
+    "version_code": 33,
     "database": [],
     "widgets": [],
     "language": "php",
@@ -15,7 +15,7 @@
     "verification": null,
     "dependencies": null,
     "sslPorts": null,
-    "display_name": "OBS",
+    "display_name": "DBS",
     "functions": [
         {
             "name": "studentPermission",
