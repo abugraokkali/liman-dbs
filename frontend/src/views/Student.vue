@@ -34,7 +34,7 @@
           label="Dersler"
         >
           <cv-select-option
-            v-for="item in allLectures"
+            v-for="item in choosableLectures"
             :key="item.name"
             :label="item.name"
             :value="item.value"
@@ -61,11 +61,12 @@ export default {
     return {
       visible: false,
       selectedLecture: "",
-      allLectures: [],
+      choosableLectures: [],
+      studentLectures: [],
     };
   },
   mounted() {
-    this.getAllLectures();
+    this.getLecturesOfStudent();
   },
   methods: {
     getAllLectures: function () {
@@ -74,12 +75,38 @@ export default {
         new FormData(),
         (res) => {
           let response = JSON.parse(res).message;
-          response.forEach((element) => {
-            this.allLectures.push({
+          console.log(response);
+          let arr = [];
+          response.forEach((e) => {
+            if(!this.studentLectures.some(function(o){return o["code"] === e.code;})) {
+              arr.push(e)
+            }
+          });
+          arr.forEach((element) => {
+            this.choosableLectures.push({
               name: element["code"] + ": " + element["name"]  + " (" + element["lecturer"] + ")",
               value: element["code"] + "*" + element["lecturer"],
             });
           });
+        },
+        (res) => {
+          let error = JSON.parse(res);
+          showSwal(error.message, "error", 3000);
+        }
+      );
+    },
+    getLecturesOfStudent: function () {
+      request(
+        API("get_lectures_of_student"),
+        new FormData(),
+        (res) => {
+          let response = JSON.parse(res).message;
+          response.forEach((e) => {
+            delete e.status;
+          });
+          console.log(response)
+          this.studentLectures = response;
+          this.getAllLectures();
         },
         (res) => {
           let error = JSON.parse(res);
