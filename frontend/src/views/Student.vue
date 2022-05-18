@@ -18,24 +18,13 @@
             <Add20 />
           </div>
         </cv-button>
-         <cv-button
-          small
-          kind="secondary"
-          @click="download"
-          class="ml-1"
-        >
-          İndir
-          <div class="btn__icon">
-            <Download20 />
-          </div>
-        </cv-button>
       </template>
     </DataTable>
     <cv-modal
       size="large"
       :visible="visible"
       @after-modal-hidden="visible = false"
-      @primary-click="selectLecture()"
+      @secondary-click="selectLecture()"
     >
       <template slot="title">Ders Seçimi</template>
       <template slot="content">
@@ -52,7 +41,7 @@
           ></cv-select-option>
         </cv-select>
       </template>
-      <template slot="primary-button">Talep Oluştur</template>
+      <template slot="secondary-button">Talep Oluştur</template>
     </cv-modal>
   </cv-tile>
 </template>
@@ -108,6 +97,9 @@ export default {
           this.visible = false;
           showSwal("Ders talebiniz akademisyene iletildi", "info", 2000);
           this.sendNotification();
+          setTimeout(() => {
+            location.reload();
+          }, 2000);
         },
         (res) => {
           let error = JSON.parse(res);
@@ -130,9 +122,6 @@ export default {
             showSwal(error.message, "error", 3000);
           }
         );
-    },
-    download: function () {
-      console.log('download');
     },
   },
 };
