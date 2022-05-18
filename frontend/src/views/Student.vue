@@ -75,7 +75,6 @@ export default {
         new FormData(),
         (res) => {
           let response = JSON.parse(res).message;
-          console.log(response);
           let arr = [];
           response.forEach((e) => {
             if(!this.studentLectures.some(function(o){return o["code"] === e.code;})) {
@@ -104,7 +103,6 @@ export default {
           response.forEach((e) => {
             delete e.status;
           });
-          console.log(response)
           this.studentLectures = response;
           this.getAllLectures();
         },
@@ -136,7 +134,6 @@ export default {
     },
     sendNotification: function () {
         let form = new FormData();
-        console.log(this.selectedLecture.split("*")[1])
         form.append("userid", this.selectedLecture.split("*")[1]);
         form.append("title", 'Ders Talebi');
         form.append("message",  ' ' + this.selectedLecture.split("*")[0] + ' kodlu dersiniz için onay bekliyor.');
