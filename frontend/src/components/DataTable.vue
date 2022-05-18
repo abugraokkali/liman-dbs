@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h5 v-if="title">
+    <h5 v-if="showTitle">
       {{title}} ({{ count }})
     </h5>
     <div v-if="loading">
@@ -29,13 +29,17 @@
           slot="actions"
         >
           <cv-search v-model="search"> </cv-search>
-          <cv-data-table-action @click="download">
+          <export-excel
+            class   = "bx--overflow-menu bx--toolbar-action"
+            :data   = "data"
+            :worksheet = "title"
+            :name    = "title +'.xls'">
             <svg fill-rule="evenodd" height="16" name="download" role="img" viewBox="0 0 14 16" width="14" aria-label="Download" alt="Download">
               <title>Download</title>
               <path d="M7.506 11.03l4.137-4.376.727.687-5.363 5.672-5.367-5.67.726-.687 4.14 4.374V0h1v11.03z"></path>
               <path d="M13 15v-2h1v2a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-2h1v2h12z"></path>
             </svg>
-          </cv-data-table-action>
+          </export-excel>
           <slot name="action-buttons"></slot>
         </template>
         <template slot="data">
@@ -148,6 +152,10 @@ export default {
       type: Boolean,
       default: () => true,
     },
+    showTitle: {
+      type: Boolean,
+      default: () => true,
+    },
     clickableName: {
       type: Boolean,
       default: () => false,
@@ -164,6 +172,47 @@ export default {
       start: 0,
       search: "",
       pageSize: this.size,
+      json_fields: {
+        'Complete name': 'name',
+        'City': 'city',
+        'Telephone': 'phone.mobile',
+        'Telephone 2' : {
+            field: 'phone.landline',
+            callback: (value) => {
+                return `Landline Phone - ${value}`;
+            }
+        },
+      },
+      json_data: [
+            {
+                'name': 'Tony Peña',
+                'city': 'New York',
+                'country': 'United States',
+                'birthdate': '1978-03-15',
+                'phone': {
+                    'mobile': '1-541-754-3010',
+                    'landline': '(541) 754-3010'
+                }
+            },
+            {
+                'name': 'Thessaloniki',
+                'city': 'Athens',
+                'country': 'Greece',
+                'birthdate': '1987-11-23',
+                'phone': {
+                    'mobile': '+1 855 275 5071',
+                    'landline': '(2741) 2621-244'
+                }
+            }
+        ],
+        json_meta: [
+            [
+                {
+                    'key': 'charset',
+                    'value': 'utf-8'
+                }
+            ]
+        ],
     };
   },
   computed: {
@@ -296,22 +345,6 @@ export default {
           showSwal(error.message, "error", 3000);
         }
       );
-    },
-    download: function () {
-      var rows = [];
-      rows.push(Object.values(this.columns));
-      this.data.forEach(element => {
-        rows.push(Object.values(element));
-      });
-
-      let csvContent = "data:text/csv;charset=utf-8," + rows.map(e => e.join(",")).join("\n");
-      var encodedUri = encodeURI(csvContent);
-      var link = document.createElement("a");
-      link.setAttribute("href", encodedUri);
-      link.setAttribute("download", this.title);
-      document.body.appendChild(link);
-
-      link.click();
     },
     actionOnPagination(val) {
       this.pageSize = val.length;

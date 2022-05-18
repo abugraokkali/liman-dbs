@@ -25,7 +25,8 @@
             <cv-tab label="Kayıtlı Öğrenciler">
               <DataTable
                 :key="selectedLecture"
-                title=""
+                :showTitle='false'
+                :title="selectedLecture + 'KayıtlıÖğrenciler'"
                 :columns="[ 'E-mail', 'Durum']"
                 api="get_students_of_lecture_approved"
                 :size="5"
@@ -37,7 +38,8 @@
             <cv-tab label="Onay Bekleyenler" >
               <DataTable
                 :key="selectedLecture"
-                title=""
+                :showTitle='false'
+                :title="selectedLecture + 'OnayBekleyenler'"
                 :columns="[ 'E-mail', 'Durum', 'Operasyon']"
                 api="get_students_of_lecture_waiting"
                 :size="5"

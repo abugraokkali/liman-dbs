@@ -10,7 +10,8 @@ import VuePageTransition from "vue-page-transition";
 import CarbonComponentsVue from '@limanmys/carbon-vue';
 import ChartsVue from "@carbon/charts-vue";
 import { Settings } from "luxon";
-
+import excel from 'vue-excel-export'
+ 
 // CSS Imports
 import './styles/carbon-build.css';
 import './styles/carbon-charts.css';
@@ -20,6 +21,7 @@ import './styles/custom-styles.css';
 Vue.use(CarbonComponentsVue);
 Vue.use(ChartsVue);
 Vue.use(VuePageTransition);
+Vue.use(excel)
 
 Vue.prototype.$can = (perm) => {
   return can(perm);
