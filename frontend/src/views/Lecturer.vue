@@ -105,13 +105,16 @@ export default {
     sendAnnouncement() {
       let form = new FormData();
       form.append("lecturecode", this.selectedLecture);
-      form.append("title", this.title);
+      form.append("title", this.selectedLecture + ' DUYURU: ' + this.title);
       form.append("message", this.message);
       form.append("type", "liman_update");      
       request(
         API("send_announcement"),
         form,
-        () => {},
+        () => {
+          this.visible = false;
+          showSwal('Duyuru başarıyla gönderildi', "success", 2000);
+        },
         (res) => {
           let error = JSON.parse(res);
           showSwal(error.message, "error", 3000);

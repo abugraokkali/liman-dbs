@@ -106,9 +106,8 @@ export default {
           this.studentLectures = response;
           this.getAllLectures();
         },
-        (res) => {
-          let error = JSON.parse(res);
-          showSwal(error.message, "error", 3000);
+        () => {
+          this.getAllLectures();
         }
       );
     },

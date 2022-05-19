@@ -318,7 +318,7 @@ export default {
       let form = new FormData();
       form.append("userid", row.studentid);
       form.append("title", 'Dersiniz Onaylandı');
-      form.append("message", this.lectureCode + 'kodlu ders kaydınız onaylanmıştır.');
+      form.append("message", this.lectureCode + ' kodlu ders kaydınız onaylanmıştır.');
       form.append("type", "notify");      
       request(
         API("send_notif"),
@@ -334,7 +334,7 @@ export default {
       let form = new FormData();
       form.append("userid", row.studentid);
       form.append("title", 'Dersiniz Onaylanmadı');
-      form.append("message", this.lectureCode + 'kodlu ders kaydınız onaylamanmıştır.');
+      form.append("message", this.lectureCode + ' kodlu ders kaydınız onaylamanmıştır.');
       form.append("type", "health_problem");      
       request(
         API("send_notif"),
